@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Climbing Collider
+  - Cameras Switch Collider
+  - Climbable
+  - Pogo
+  - Vine Position Trigger
+  - Camera Switcher
+  - Gorilla Falling Trigger
+  - Gorilla Trun Trigger
+  - Container
+  - Rock Fall Trigger
+  - Item Collector
+  - Pitt
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - Pogo Collider
+  - Dead Enemies
+  - Enemy Triggers
+  - Items
+  - Item Collector
+  - Life Manager
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Invisible
+    uniqueID: 2928580109
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 60376713
+    locked: 0
+  - name: Enemies
+    uniqueID: 2240679173
+    locked: 0
+  - name: UI
+    uniqueID: 3689216983
+    locked: 0
+  - name: Player
+    uniqueID: 1371812629
+    locked: 0
+  - name: Items
+    uniqueID: 2283214331
+    locked: 0
+  m_RenderingLayers:
+  - Default

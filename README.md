@@ -1,22 +1,31 @@
 DuckTale: The Amazon Recreation
 
-Welcome to DuckTale: The Amazon Recreation! This project is a faithful recreation of the classic DuckTales game, focusing on the Amazon level. Embark on an adventure with Scrooge McDuck as he navigates treacherous terrains, uncovers hidden treasures, and outwits foes in the dense jungle.
+Welcome to DuckTale: The Amazon Recreation — a faithful reimagining of the classic DuckTales game, focusing on the beloved Amazon level. Join Scrooge McDuck as he braves perilous jungle terrain, uncovers hidden treasures, and outwits his foes in a lush, adventure-packed environment.
 
-Gamepad Controls
+This project was an absolute joy from start to finish — from the initial architectural sketches to the final playable product. It provided valuable hands-on experience with core object-oriented programming (OOP) principles such as abstraction, inheritance, and generics, as well as key design patterns like state machines, singletons, and the observer pattern.
 
-•	Move: Use the D-pad to move Scrooge McDuck left or right.
-•	Jump: Press the South button to make Scrooge jump.
-•	Pogo Stick Put: Press the West button to deploy Scrooge’s pogo stick.
-•	Pogo Jump: Hold Down on the D-pad and press the West button simultaneously to perform a pogo jump.
+⸻
 
-Cheat Codes
+🎮 Gamepad Controls
 
-For players seeking additional control or testing capabilities, the following cheat codes are available:
-•	Reset Level: Press the North button to reset the current level.
-•	Reset Game (Return to Opening Screen): Press the East button to reset the game and return to the opening screen.
-•	Reset Enemies: Press the Right Shoulder button to reset all enemies in the current level.
-•	Reset Player: Press the Left Shoulder button to reset Scrooge’s position.
+Movement & Actions
+	•	Move: Use the D-pad to move Scrooge left or right.
+	•	Jump: Press the South button to jump.
+	•	Deploy Pogo Stick: Press the West button.
+	•	Pogo Jump: Hold Down on the D-pad and press the West button simultaneously.
 
-In the Opening and Ending Screens:
-•	Start Level (Choose Land): Press the North button to start a level or choose a land.
-•	Quit Game: Press the East button to exit the game.
+⸻
+
+🧪 Cheat Codes
+
+For debugging or enhanced control, the following cheat codes are available:
+
+In-Game:
+	•	Reset Level: Press the North button.
+	•	Return to Opening Screen: Press the East button.
+	•	Reset Enemies: Press the Right Shoulder button.
+	•	Reset Player Position: Press the Left Shoulder button.
+
+Opening & Ending Screens:
+	•	Start Level / Choose Land: Press the North button.
+	•	Quit Game: Press the East button.

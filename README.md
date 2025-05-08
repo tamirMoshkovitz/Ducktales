@@ -2,7 +2,7 @@ DuckTale: The Amazon Recreation
 
 Welcome to DuckTale: The Amazon Recreation — a faithful reimagining of the classic DuckTales game, focusing on the beloved Amazon level. Join Scrooge McDuck as he braves perilous jungle terrain, uncovers hidden treasures, and outwits his foes in a lush, adventure-packed environment.
 
-This project was an absolute joy from start to finish — from the initial architectural sketches to the final playable product. It provided valuable hands-on experience with core object-oriented programming (OOP) principles such as abstraction, inheritance, and generics, as well as key design patterns like state machines, singletons, and the observer pattern.
+This project was an absolute joy from start to finish — from the initial architectural sketches to the final playable product. It provided valuable hands-on experience with core object-oriented programming (OOP) principles such as abstraction, inheritance, and generics, as well as key design patterns like state machines, singletons, object pooling,  and the observer pattern.
 
 ⸻
 

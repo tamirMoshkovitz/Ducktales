@@ -16,7 +16,7 @@ Movement & Actions
 
 ⸻
 
-🧪 Cheat Codes
+Cheat Codes
 
 For debugging or enhanced control, the following cheat codes are available:
 
